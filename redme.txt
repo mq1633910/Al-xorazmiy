@@ -1,0 +1,7 @@
+cd [papka nomi] ->bu biror papkaga kirish buyrug'i.
+cd .. -> biror papkadan chiqish.
+dir -> joriy papkadagi fayl va papkalar ro'yxatini ko'rsatish.
+nano [filename.filetype]  ->fayl yaratish yoki ko'rsatish.
+git clone [project_url] -> loyihani klon qilish.
+git add . -> GITga yangi o'zgarishni qo'shish.
+git commit -m"[bajarilgan ishga qisqa tavsif]" ->BARCHA COMMITLARNI (BARCHA BAJARILGAN ISHLARNI git (github,gitlab)ga saqlash.
